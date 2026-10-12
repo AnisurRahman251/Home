@@ -1,114 +1,78 @@
-Hi, I'm Md. Anisur Rahman 👋
-Cybersecurity Researcher | Machine Learning Engineer | PhD Aspirant
-📍 Lexington, Kentucky, USA
-🎓 MSc in Information and Communication Technology, BUET (2026)
-🎓 BSc in Electrical & Electronic Engineering, BUET (2016)
-📄 Published in Elsevier Array (Q1 Journal)
-💼 Former Manager, Cyber Security & Privacy, Robi Axiata PLC
+# Hi, I'm Md. Anisur Rahman 👋
 
-About Me
-I am a researcher and cybersecurity professional with expertise in Machine Learning, Federated Learning, Cybersecurity, Privacy-Preserving AI, Feature Optimization, and Intelligent Network Defense.
+### **Cybersecurity Researcher | Machine Learning Engineer | PhD Aspirant**
+📍 **Lexington, Kentucky, USA**  
 
-My research focuses on developing trustworthy and scalable AI systems for healthcare and cybersecurity applications.
+I am a researcher and cybersecurity professional specializing in intersectional AI and security. My work focuses on developing trustworthy, scalable, and privacy-preserving AI systems for healthcare and intelligent network defense.
 
-Research Interests
-Machine Learning
-Federated Learning
-Adversarial Machine Learning
-Trustworthy AI
-Cybersecurity & Privacy
-Intrusion Detection Systems
-Healthcare AI
-Feature Optimization
-Explainable AI
-Network Security
-Publications
-Elsevier Array (2026)
-A Novel Nature-Inspired Feature Optimization Algorithm to Detect Breast Cancer Using Machine Learning
+---
 
-Key Contributions:
+## 🔬 Research Interests
+* **Trustworthy AI:** Federated Learning | Adversarial Machine Learning | Explainable AI
+* **Intelligent Security:** Cybersecurity & Privacy | Intrusion Detection Systems (IDS) | Network Security
+* **Data Analytics:** Feature Optimization | Healthcare AI
 
-Hybrid Firefly + Gray Wolf Optimization
-98% Classification Accuracy
+---
 
-~40% Computational Reduction
-Breast Cancer Detection on WBCD and METABRIC datasets
-Current Research
-Vulnerability Propagation in Federated Intrusion Detection
-Investigating how adversarial perturbations propagate across clients in Federated Learning-based Intrusion Detection Systems.
+## 📊 Technical Skills
 
-Key Findings:
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI & Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy |
+| **Cybersecurity & Privacy** | IDS/IPS, SIEM, Security Monitoring, Privacy Engineering, Risk Management |
+| **Networking** | TCP/IP, Routing & Switching, Wireless Networks, Network Security |
+| **Cloud & DevOps** | AWS, Linux, Docker, Git, GitHub |
 
-Attack Type	Propagation Reach
-Static	71.4%
-Adaptive	71.4%
-Adaptive Drift	85.7%
-Research Topics:
+---
 
-Federated Learning
-Adversarial Attacks
-Intrusion Detection
-Privacy-Preserving AI
-Trustworthy AI
-Technical Skills
-AI & Machine Learning
-Python
-PyTorch
-TensorFlow
-Scikit-Learn
-Pandas
-NumPy
-Cybersecurity
-IDS/IPS
-SIEM
-Security Monitoring
-Privacy Engineering
-Risk Management
-Threat Detection
-Networking
-TCP/IP
-Routing & Switching
-Wireless Networks
-Network Security
-Cloud & Platforms
-AWS
-Linux
-Docker
-Git
-GitHub
-Featured Projects
-Federated Intrusion Detection (Ongoing)
-Research on Federated Learning for Network Security and Intrusion Detection.
+## 📄 Publications & Research
 
-FGO Algorithm
-Hybrid Firefly-Gray Wolf Optimization algorithm for feature selection.
+### 🏆 Featured Publication
+* **Title:** *A Novel Nature-Inspired Feature Optimization Algorithm to Detect Breast Cancer Using Machine Learning*
+* **Journal:** **Elsevier Array (2026)** — *Q1 Journal*
+* **Key Metrics:** 
+  * Developed a **Hybrid Firefly + Gray Wolf Optimization** algorithm.
+  * Achieved **98% classification accuracy** on WBCD and METABRIC datasets.
+  * Delivered a **~40% computational reduction** in processing time.
 
-Breast Cancer Detection using Machine Learning
-Published research implementation for healthcare analytics.
+### 🧪 Current Research Focus
+* **Vulnerability Propagation in Federated Intrusion Detection:** Investigating how adversarial perturbations propagate across clients in Federated Learning-based Intrusion Detection Systems.
+* **Key Benchmark Findings (Propagation Reach):**
+  * Static Attacks: **71.4%**
+  * Adaptive Attacks: **71.4%**
+  * Adaptive Drift Attacks: **85.7%**
 
-TON-IoT Security Analytics
-Experiments using multi-modal cybersecurity datasets.
+---
 
-Education
-Bangladesh University of Engineering and Technology (BUET)
+## 🛠️ Featured Projects
 
-MSc, Information and Communication Technology (2026)
-BSc, Electrical and Electronic Engineering (2016)
-Professional Experience
-Robi Axiata PLC Manager – Cyber Security & Privacy
+* **Federated Intrusion Detection (Ongoing):** Leading-edge research applying Federated Learning structures to robust network security protocols.
+* **FGO Algorithm:** A custom, hybrid Firefly-Gray Wolf Optimization engine engineered specifically for rapid feature selection.
+* **TON-IoT Security Analytics:** Behavioral and security experiments conducted using multi-modal, large-scale cybersecurity datasets.
 
-Responsibilities included:
+---
 
-Enterprise Security Operations
-Network Security
-Data Privacy Governance
-Risk Assessment
-Compliance & Security Monitoring
-Connect With Me
-📧 Email: your_email_here
+## 💼 Professional Experience
 
-🔗 LinkedIn: your_linkedin
+**Robi Axiata PLC**  
+*Manager – Cyber Security & Privacy*  
+* Led enterprise security operations and managed complex network security frameworks.
+* Managed data privacy governance strategies, risk assessments, compliance frameworks, and proactive security monitoring.
 
-📚 Google Scholar: your_scholar_link
+---
 
-🌐 ORCID: your_orcid
+## 🎓 Education
+
+* **MSc in Information and Communication Technology** | *BUET (2026)*
+* **BSc in Electrical & Electronic Engineering** | *BUET (2016)*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:your_email_here"><img src="https://shields.io" alt="Email"/></a>
+  <a href="your_linkedin"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="your_scholar_link"><img src="https://shields.io" alt="Google Scholar"/></a>
+  <a href="your_orcid"><img src="https://shields.io" alt="ORCID"/></a>
+</p>
