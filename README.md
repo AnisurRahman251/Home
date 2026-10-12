@@ -56,7 +56,7 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 
 ### **Robi Axiata PLC**
 *Dhaka, Bangladesh* (October 2022 to July 2026) 
-Manager – Cyber Security & Privacy  
+#### Manager, Cyber Security & Privacy  
  * Led Data Privacy strategy, governance, and roadmap for Robi Axiata PLC and its subsidiaries, aligned with Axiata Group standards and applicable regulations.
  * Developed and maintained privacy policies, processes, guidelines, and controls aligned with GDPR, Malaysia PDDA, and emerging data protection requirements.
  * Managed Data Loss Prevention (DLP) activities, data exposure reviews, and identification and mitigation of data leakage and protection gaps.
@@ -71,41 +71,37 @@ Manager – Cyber Security & Privacy
  * Led organization-wide privacy awareness, training, and behavioral change programs to strengthen data protection culture.
  * In collaboration with the ERM and BCM teams to conduct organization wide BIA and develop BCP documentation (Additional responsibilities assigned by the Head of R&C).
 
-**Red.Digital Ltd.**
-_Dhaka, Bangladesh_
-_System Engineer – Information Technology Platform_
-* May 2020 - September 2022*
-* Collaborate to provide all Network level support for New Project (ex-EIR, Robi Cash, RAFM, My Airtel).
-* Process Design for Network and Security Related Support Portal (Service Desk plus and eApproval) 
-* Managing Next generation firewall (Cisco ASA, FTD, IPS). Managing new and existing Site to Site VPN, Dial-Up VPN with different security protocol.
-* Managing F5 Load balancer and Web Application firewall. Lead WAF blocking (support ID) resolution process, iRule Data-Group mapping, attack signature and DDoS Security imposing/bypassing   as per requirement of service SLA and security compliance.  
-* Managing IP TV and VoD service ‘Binge’ Network. 
-* Managing preparation of SOP, MOP for ACL and user database for yearly Network Audit and BTRC Monthly Report. 
-* Managing Cisco WLC and AP, WIC and RA VPN connectivity while managing user with Cisco Identity Service Engine.
+### **Red.Digital Ltd.**
+*Dhaka, Bangladesh* (May 2020 - September 2022)
+#### System Engineer – Information Technology Platform
+ * Collaborate to provide all Network level support for New Project (ex-EIR, Robi Cash, RAFM, My Airtel).
+ * Process Design for Network and Security Related Support Portal (Service Desk plus and eApproval) 
+ * Managing Next generation firewall (Cisco ASA, FTD, IPS). Managing new and existing Site to Site VPN, Dial-Up VPN with different security protocol.
+ * Managing F5 Load balancer and Web Application firewall. Lead WAF blocking (support ID) resolution process, iRule Data-Group mapping, attack signature and DDoS Security imposing/bypassing   as per requirement of service SLA and security compliance.  
+ * Managing IP TV and VoD service ‘Binge’ Network. 
+ * Managing preparation of SOP, MOP for ACL and user database for yearly Network Audit and BTRC Monthly Report. 
+ * Managing Cisco WLC and AP, WIC and RA VPN connectivity while managing user with Cisco Identity Service Engine.
 
-**Bangla Phone Ltd.**  
+### **Bangla Phone Ltd.**  
 *Dhaka, Bangladesh*
-*System Engineer – Planning and Development*
-*May 2020 - September 2022*
-* Team Lead, Network Operation (Network Monitoring, Transmission network Troubleshooting and Customer Support Department).
-* Lead LTE Rollout Project Planning and coordination.
-* Coordination of ad-hoc customer transmission KPI data preparation and incident reporting. Managing monthly dispute settlement with our prominent customers (i.e. Mobile operators) as operation POC.
-* Managing different vendors, service providers.
-* Process and Network Operation Ticket tool (FFA) and Network Monitoring System (NMS) Design and deployment.
-* MPLS network deployment.
+#### *System Engineer, Planning and Development (November 2017 - March 2020)*
+ * Team Lead, Network Operation (Network Monitoring, Transmission network Troubleshooting and Customer Support Department).
+ * Lead LTE Rollout Project Planning and coordination.
+ * Coordination of ad-hoc customer transmission KPI data preparation and incident reporting. Managing monthly dispute settlement with our prominent customers (i.e. Mobile operators) as operation POC.
+ * Managing different vendors, service providers.
+ *  Process and Network Operation Ticket tool (FFA) and Network Monitoring System (NMS) Design and deployment.
+ * MPLS network deployment.
 
-*Jr. System Engineer – Planning and Development*
-* May 2020 - September 2022*
-* Project member of Telco Transmission network bandwidth Upgradation Project and Robi-Airtel Merging Project.
-* Network Equipment MUX/Switch/Router Configuration new connectivity implementation.
-* Layer3, OTN and DWDM network Troubleshooting.
-* Network fault/ incident analysis, reporting.
-* Drawing Network diagram for different government tender.
+#### *Jr. System Engineer, Planning and Development (May 2016 - October 2017)* 
+ * Project member of Telco Transmission network bandwidth Upgradation Project and Robi-Airtel Merging Project.
+ * Network Equipment MUX/Switch/Router Configuration new connectivity implementation.
+ * Layer3, OTN and DWDM network Troubleshooting.
+ * Network fault/ incident analysis, reporting.
+ * Drawing Network diagram for different government tender.
 
-*Trainee – Planning and Development*
-* October 2015 - April 2016*
-* Basic troubleshooting of SDH Network.
-* Preparing different Reports as per requirement. 
+#### *Trainee, Planning and Development (October 2015 - April 2016)* 
+ * Basic troubleshooting of SDH Network.
+ * Preparing different Reports as per requirement. 
 ---
 
 ## 🎓 Education
