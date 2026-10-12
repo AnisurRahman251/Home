@@ -72,8 +72,8 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 * In collaboration with the ERM and BCM teams to conduct organization wide BIA and develop BCP documentation (Additional responsibilities assigned by the Head of R&C).
 
 **Red.Digital Ltd.**
-*Dhaka, Bangladesh*
-*System Engineer – Information Technology Platform*
+_Dhaka, Bangladesh_
+_System Engineer – Information Technology Platform_
 * May 2020 - September 2022*
 * Collaborate to provide all Network level support for New Project (ex-EIR, Robi Cash, RAFM, My Airtel).
 * Process Design for Network and Security Related Support Portal (Service Desk plus and eApproval) 
