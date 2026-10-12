@@ -54,21 +54,21 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 
 ## 💼 Professional Experience
 
-**Robi Axiata PLC** Dhaka, Bangladesh 
-*Manager – Cyber Security & Privacy*  
-* Led Data Privacy strategy, governance, and roadmap for Robi Axiata PLC and its subsidiaries, aligned with Axiata Group standards and applicable regulations.
-* Developed and maintained privacy policies, processes, guidelines, and controls aligned with GDPR, Malaysia PDDA, and emerging data protection requirements.
-* Managed Data Loss Prevention (DLP) activities, data exposure reviews, and identification and mitigation of data leakage and protection gaps.
-* Led Privacy by Design (PbD) assessments within CI/CD pipelines, reporting privacy risks, tracking mitigation actions, and monitoring remediation status.
-* Oversaw vulnerability assessments, penetration testing, and Red Team gap identification, coordinating mitigation and remediation of identified security and privacy risks.
-* Conducted Privacy-Enhancing Technology (PET) assessments, data exposure reviews, gap identification, and mitigation planning to strengthen privacy controls.
-* Led DPIAs, privacy risk assessments, vendor privacy due diligence, DPAs, and data protection contract reviews for projects, platforms, and third parties.
-* Partnered with Legal, IT, Data Governance, Regulatory, and business teams to embed Privacy by Design into new products, services, data-sharing, monetization, and technology initiatives.
-* Managed privacy and data breach incidents, including investigation, risk assessment, escalation, notification, and remediation.
-* Oversaw privacy compliance audits, third-party assessments, regulatory questionnaires, and enterprise risk/compliance activities.
-* Provided regular privacy posture, risk, and mitigation reporting to senior management, Risk Committees, and Board-level governance forums.
-* Led organization-wide privacy awareness, training, and behavioral change programs to strengthen data protection culture.
-* In collaboration with the ERM and BCM teams to conduct organization wide BIA and develop BCP documentation (Additional responsibilities assigned by the Head of R&C).
+**Robi Axiata PLC** Dhaka, Bangladesh.
+Manager – Cyber Security & Privacy  
+ * Led Data Privacy strategy, governance, and roadmap for Robi Axiata PLC and its subsidiaries, aligned with Axiata Group standards and applicable regulations.
+ * Developed and maintained privacy policies, processes, guidelines, and controls aligned with GDPR, Malaysia PDDA, and emerging data protection requirements.
+ * Managed Data Loss Prevention (DLP) activities, data exposure reviews, and identification and mitigation of data leakage and protection gaps.
+ * Led Privacy by Design (PbD) assessments within CI/CD pipelines, reporting privacy risks, tracking mitigation actions, and monitoring remediation status.
+ * Oversaw vulnerability assessments, penetration testing, and Red Team gap identification, coordinating mitigation and remediation of identified security and privacy risks.
+ * Conducted Privacy-Enhancing Technology (PET) assessments, data exposure reviews, gap identification, and mitigation planning to strengthen privacy controls.
+ * Led DPIAs, privacy risk assessments, vendor privacy due diligence, DPAs, and data protection contract reviews for projects, platforms, and third parties.
+ * Partnered with Legal, IT, Data Governance, Regulatory, and business teams to embed Privacy by Design into new products, services, data-sharing, monetization, and technology initiatives.
+ * Managed privacy and data breach incidents, including investigation, risk assessment, escalation, notification, and remediation.
+ * Oversaw privacy compliance audits, third-party assessments, regulatory questionnaires, and enterprise risk/compliance activities.
+ * Provided regular privacy posture, risk, and mitigation reporting to senior management, Risk Committees, and Board-level governance forums.
+ * Led organization-wide privacy awareness, training, and behavioral change programs to strengthen data protection culture.
+ * In collaboration with the ERM and BCM teams to conduct organization wide BIA and develop BCP documentation (Additional responsibilities assigned by the Head of R&C).
 
 **Red.Digital Ltd.**
 _Dhaka, Bangladesh_
