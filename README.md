@@ -119,7 +119,7 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 
 | Platform | Link / Handle |
 | :--- | :--- |
-| 📧 **Email** | (mailto:anisurrahman251@gmail.com) |
+| 📧 **Email** | anisurrahman251@gmail.com |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/md-anisur-rahman-31683089/ |
 | 📚 **Google Scholar** | https://scholar.google.com/citations?user=i7s9x9QAAAAJ&hl=en |
 | 🆔 **ORCID ID** | https://orcid.org/0009-0009-6422-7371 | 
