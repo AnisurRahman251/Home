@@ -54,7 +54,8 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 
 ## 💼 Professional Experience
 
-### **Robi Axiata PLC** *Dhaka, Bangladesh* (October 2022 to July 2026) 
+### **Robi Axiata PLC**
+*Dhaka, Bangladesh* (October 2022 to July 2026) 
 #### Manager – Cyber Security & Privacy  
  * Led Data Privacy strategy, governance, and roadmap for Robi Axiata PLC and its subsidiaries, aligned with Axiata Group standards and applicable regulations.
  * Developed and maintained privacy policies, processes, guidelines, and controls aligned with GDPR, Malaysia PDDA, and emerging data protection requirements.
