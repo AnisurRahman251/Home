@@ -55,8 +55,8 @@ I am a researcher and cybersecurity professional specializing in intersectional 
 ## 💼 Professional Experience
 
 ### **Robi Axiata PLC**
-*Dhaka, Bangladesh* (October 2022 to July 2026) 
-#### Manager, Cyber Security & Privacy  
+*Dhaka, Bangladesh* 
+#### *Manager, Cyber Security & Privacy, Risk & Compliance (October 2022 to July 2026)*  
  * Led Data Privacy strategy, governance, and roadmap for Robi Axiata PLC and its subsidiaries, aligned with Axiata Group standards and applicable regulations.
  * Developed and maintained privacy policies, processes, guidelines, and controls aligned with GDPR, Malaysia PDDA, and emerging data protection requirements.
  * Managed Data Loss Prevention (DLP) activities, data exposure reviews, and identification and mitigation of data leakage and protection gaps.
@@ -72,8 +72,8 @@ I am a researcher and cybersecurity professional specializing in intersectional 
  * In collaboration with the ERM and BCM teams to conduct organization wide BIA and develop BCP documentation (Additional responsibilities assigned by the Head of R&C).
 
 ### **Red.Digital Ltd.**
-*Dhaka, Bangladesh* (May 2020 - September 2022)
-#### System Engineer – Information Technology Platform
+*Dhaka, Bangladesh* 
+#### *System Engineer, Information Technology Platform (May 2020 - September 2022)*
  * Collaborate to provide all Network level support for New Project (ex-EIR, Robi Cash, RAFM, My Airtel).
  * Process Design for Network and Security Related Support Portal (Service Desk plus and eApproval) 
  * Managing Next generation firewall (Cisco ASA, FTD, IPS). Managing new and existing Site to Site VPN, Dial-Up VPN with different security protocol.
