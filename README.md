@@ -74,6 +74,15 @@ I am a researcher and cybersecurity professional specializing in intersectional 
   <a href="https://www.linkedin.com/in/md-anisur-rahman-31683089/"><img src="https://shields.io" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?user=i7s9x9QAAAAJ&hl=en"><img src="https://shields.io" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0009-6422-7371"><img src="https://badgen.net" alt="ORCID"/></a>
+
+### 🌐 Connect With Me
+
+| Platform | Link / Handle |
+| :--- | :--- |
+| 📧 **Email** | [your_email_here](mailto:your_email_here) |
+| 💼 **LinkedIn** | [your_linkedin](your_linkedin) |
+| 📚 **Google Scholar** | [your_scholar_link](your_scholar_link) |
+| 🆔 **ORCID ID** | [your_orcid](your_orcid) |  
 </p>
 </p>
 
