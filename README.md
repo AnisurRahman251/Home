@@ -36,7 +36,7 @@ I am a researcher and cybersecurity professional specializing in intersectional 
   * Delivered a **~40% computational reduction** in processing time.
 
 ### 🧪 Current Research Focus
-* **Vulnerability Propagation in Federated Intrusion Detection:** Investigating how adversarial perturbations propagate across clients in Federated Learning-based Intrusion Detection Systems.
+* **Silent Vulnerability Propagation in Federated Intrusion Detection:** Investigating how adversarial perturbations propagate across clients in Federated Learning-based Intrusion Detection Systems using counterfactual dynamics.
 * **Key Benchmark Findings (Propagation Reach):**
   * Static Attacks: **71.4%**
   * Adaptive Attacks: **71.4%**
